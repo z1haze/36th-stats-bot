@@ -1,0 +1,7 @@
+.idea/
+node_modules/
+
+.env
+
+example.json
+example2.json
